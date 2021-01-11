@@ -1,2 +1,2 @@
 # hdqttech
-code 
+code & SQL
